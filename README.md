@@ -48,11 +48,9 @@ cd Cub3D
 ```bash
 # Clone MiniLibX from the official repository
 git clone https://github.com/42Paris/minilibx-linux.git
-
-
 ```
 
-4. **Compile the project**:
+3. **Compile the project**:
 ```bash
 make
 ```
@@ -92,16 +90,12 @@ C 225,30,0     # Ceiling color (RGB)
 
 **Map symbols**: `1` = Wall, `0` = Empty space, `N/S/E/W` = Player start position
 
-
 ## ✅ Key Features
 
 - **DDA Algorithm**: Efficient raycasting for wall detection
 - **Texture Mapping**: Different textures per wall direction
 - **Input Validation**: Comprehensive map and file validation
 - **Error Handling**: Detailed error messages for debugging
-
-
-```
 
 ## 🏫 42 School Project
 
