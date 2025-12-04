@@ -8,7 +8,7 @@ Cub3D is a simple 3D game that uses raycasting techniques to render a pseudo-3D 
 
 ## 🎥 Demo
 
-[![Watch the video](preview.gif)]
+![Preview](preview.gif)
 
 ## 🛠️ Features
 
