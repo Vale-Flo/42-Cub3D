@@ -6,6 +6,10 @@ A 3D raycasting game engine inspired by Wolfenstein 3D, built as part of the 42 
 
 Cub3D is a simple 3D game that uses raycasting techniques to render a pseudo-3D environment from a 2D map. The project recreates the basic mechanics of classic first-person games like Wolfenstein 3D.
 
+## 🎥 Demo
+
+[![Watch the video](preview.gif)]
+
 ## 🛠️ Features
 
 - **3D Raycasting Engine**: Real-time 3D rendering using raycasting algorithms
@@ -104,5 +108,3 @@ Part of the graphics programming curriculum focusing on:
 - Mathematical concepts (vectors, trigonometry)
 - Memory management
 - File parsing and validation
-
----
